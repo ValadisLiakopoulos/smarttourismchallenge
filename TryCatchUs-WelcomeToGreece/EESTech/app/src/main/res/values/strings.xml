@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">EESTech</string>
+    <string name="restart">Restart</string>
+    <string name="welcome">Welcome to Greece!</string>
+    <string name="startB">Start!</string>
+    <string name="team">Developed by TryCatchUs</string>
+    <string name="submit">Submit</string>
+    <string name="wrongans1">Wrong Answer</string>
+    <string name="wrongans2">Try Again</string>
+    <string name="infoStart">Play to get involved into the beauties of Greece and help to minimize the environmental impact of tourism industry</string>
+    <string name="firstLevel">Level %d\nWhat is this place?</string>
+    <string name="option1_1">Panathinaikon</string>
+    <string name="option_1_2">Parthenon</string>
+    <string name="option_1_3">White Tower</string>
+    <string name="title_activity_begin_levels">beginLevels</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Levels">Levels</string>
+
+
+    <string name="Acropol">What you can do in Acropolis?</string>
+    <string name="parthenonC">Correct!\nIt is Parthenon.</string>
+    <string name="parthenonInfo1">Parthenon is located in Acropolis, the heart of Athens.\nAthens is the capital of Greece.\nParthenon was built in 438BCE and it is one of the greatests archaeological monuments in the world, symbolizing the birth of Democracy.
+    </string>
+    <string name="parthenonInfo2">Sightseeing:\n\n->Visit the Acropolis to see the monuments.\n->Visit the museum of Acropolis.\n->Visit the centre of Athens(Monastirakion Square, Plaka, Thiseion) and many more.\n\nCuisine: \n\nWhat it is better than souvlaki and backlava?\nIn the centre of Athens you could taste the most greek foods that you could find.\n\nTransportation: \n\nYou could use the metro, suburban railways and do walking and cycling to navigate through Athens to minimize the production of CO2.
+</string>
+
+    <string name="NavagioCorrect">Correct!\nIt is the Shipwreck Beach.</string>
+    <string name="NavagioInfo1">The Navagio/Shipwreck Beach is a very famous beach in the Ionian Sea.\nLocated in the Zakenthos Island.</string>
+    <string name="NavagioInfo2">The Shipwreck Beach is the most fascinating beach you could visit.\n\nTo Do List:\n\n->Enjoy the refreshing deep blue waters, with the shipwreck on sight!\n->Get your perfect tan from the hot sun, but always use sunscreen.\n->Visit all the amazing places Zakenthos has!\n\nCuisine:\n\nEnjoy the local food of Zakenthos, like fresh fish and seafood, souvlaki, loukoumia and more.</string>
+    <string name="shipwreckBeach">What you can do in Shipwreck Beach?</string>
+
+    <string name="salonikadoing">What can you do in Thessaloniki?</string>
+    <string name="whitetowerheader">Level %d\nWhere is the White Tower located?</string>
+    <string name="salonikainfo1">Thessaloniki is the second largest town of Greece\n</string>
+    <string name="salonikainfo2">Sightseeing:\n\n->Visit the White Tower.\n->Visit Aristotelous Square\n->Visit Great Alexanders Statue and more\n\nCuisine:\n\nCome to thessaloniki to try the delicious bougatsa. Also you could try koulouri, trigona/triangle of perama and more!\n\nTransportation:\n\nYou could do cycling, walking and use urban buses to minimize CO2 production.</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
